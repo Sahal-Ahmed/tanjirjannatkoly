@@ -1,0 +1,12 @@
+.myPicture img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.recognition span{
+    color:#A98551
+}
+.myalbum img{
+    width: 100%;
+}
